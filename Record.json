@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Amit Singh",
+    "email": "amit@gmail.com",
+    "city": "Kanpur"
+  },
+  {
+    "name": "Rahul Verma",
+    "email": "rahul@gmail.com",
+    "city": "Lucknow"
+  },
+  {
+    "name": "Priya Sharma",
+    "email": "priya@gmail.com",
+    "city": "Delhi"
+  }
+]
